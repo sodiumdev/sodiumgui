@@ -1,0 +1,4 @@
+name: SodiumGUI
+version: '${project.version}'
+main: sodiumdev.gui.GuiMain
+api-version: 1.18
